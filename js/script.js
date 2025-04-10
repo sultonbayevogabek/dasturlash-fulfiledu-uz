@@ -125,7 +125,7 @@ try {
       submitButton.removeAttribute('disabled');
       submitButton.textContent = "Ro'yxatdan o'tish";
       closeModal();
-      window.location.href = `../bonus.html`
+      window.location.href = `../telegram.html`
     }
   })
 } catch (e) {
